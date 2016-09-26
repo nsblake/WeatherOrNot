@@ -47,6 +47,126 @@ namespace WeatherOrNot
 			// aapt resource value: 0x7f020000
 			public const int Icon = 2130837504;
 			
+			// aapt resource value: 0x7f020001
+			public const int s_01 = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int s_02 = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int s_03 = 2130837507;
+			
+			// aapt resource value: 0x7f020004
+			public const int s_04 = 2130837508;
+			
+			// aapt resource value: 0x7f020005
+			public const int s_05 = 2130837509;
+			
+			// aapt resource value: 0x7f020006
+			public const int s_06 = 2130837510;
+			
+			// aapt resource value: 0x7f020007
+			public const int s_07 = 2130837511;
+			
+			// aapt resource value: 0x7f020008
+			public const int s_08 = 2130837512;
+			
+			// aapt resource value: 0x7f020009
+			public const int s_11 = 2130837513;
+			
+			// aapt resource value: 0x7f02000a
+			public const int s_12 = 2130837514;
+			
+			// aapt resource value: 0x7f02000b
+			public const int s_13 = 2130837515;
+			
+			// aapt resource value: 0x7f02000c
+			public const int s_14 = 2130837516;
+			
+			// aapt resource value: 0x7f02000d
+			public const int s_15 = 2130837517;
+			
+			// aapt resource value: 0x7f02000e
+			public const int s_16 = 2130837518;
+			
+			// aapt resource value: 0x7f02000f
+			public const int s_17 = 2130837519;
+			
+			// aapt resource value: 0x7f020010
+			public const int s_18 = 2130837520;
+			
+			// aapt resource value: 0x7f020011
+			public const int s_19 = 2130837521;
+			
+			// aapt resource value: 0x7f020012
+			public const int s_20 = 2130837522;
+			
+			// aapt resource value: 0x7f020013
+			public const int s_21 = 2130837523;
+			
+			// aapt resource value: 0x7f020014
+			public const int s_22 = 2130837524;
+			
+			// aapt resource value: 0x7f020015
+			public const int s_23 = 2130837525;
+			
+			// aapt resource value: 0x7f020016
+			public const int s_24 = 2130837526;
+			
+			// aapt resource value: 0x7f020017
+			public const int s_25 = 2130837527;
+			
+			// aapt resource value: 0x7f020018
+			public const int s_26 = 2130837528;
+			
+			// aapt resource value: 0x7f020019
+			public const int s_29 = 2130837529;
+			
+			// aapt resource value: 0x7f02001a
+			public const int s_30 = 2130837530;
+			
+			// aapt resource value: 0x7f02001b
+			public const int s_31 = 2130837531;
+			
+			// aapt resource value: 0x7f02001c
+			public const int s_32 = 2130837532;
+			
+			// aapt resource value: 0x7f02001d
+			public const int s_33 = 2130837533;
+			
+			// aapt resource value: 0x7f02001e
+			public const int s_34 = 2130837534;
+			
+			// aapt resource value: 0x7f02001f
+			public const int s_35 = 2130837535;
+			
+			// aapt resource value: 0x7f020020
+			public const int s_36 = 2130837536;
+			
+			// aapt resource value: 0x7f020021
+			public const int s_37 = 2130837537;
+			
+			// aapt resource value: 0x7f020022
+			public const int s_38 = 2130837538;
+			
+			// aapt resource value: 0x7f020023
+			public const int s_39 = 2130837539;
+			
+			// aapt resource value: 0x7f020024
+			public const int s_40 = 2130837540;
+			
+			// aapt resource value: 0x7f020025
+			public const int s_41 = 2130837541;
+			
+			// aapt resource value: 0x7f020026
+			public const int s_42 = 2130837542;
+			
+			// aapt resource value: 0x7f020027
+			public const int s_43 = 2130837543;
+			
+			// aapt resource value: 0x7f020028
+			public const int s_44 = 2130837544;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -60,26 +180,74 @@ namespace WeatherOrNot
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050002
-			public const int address_text = 2131034114;
+			// aapt resource value: 0x7f060002
+			public const int address_text = 2131099650;
 			
-			// aapt resource value: 0x7f050005
-			public const int btnNext = 2131034117;
+			// aapt resource value: 0x7f060006
+			public const int btnDay1 = 2131099654;
 			
-			// aapt resource value: 0x7f050000
-			public const int imgLogo = 2131034112;
+			// aapt resource value: 0x7f060009
+			public const int btnDay2 = 2131099657;
 			
-			// aapt resource value: 0x7f050004
-			public const int kmPicker = 2131034116;
+			// aapt resource value: 0x7f06000b
+			public const int btnDay3 = 2131099659;
 			
-			// aapt resource value: 0x7f050006
-			public const int myListView = 2131034118;
+			// aapt resource value: 0x7f06000d
+			public const int btnDay4 = 2131099661;
 			
-			// aapt resource value: 0x7f050001
-			public const int txtCurrLoc = 2131034113;
+			// aapt resource value: 0x7f06000f
+			public const int btnDay5 = 2131099663;
 			
-			// aapt resource value: 0x7f050003
-			public const int txtLocField = 2131034115;
+			// aapt resource value: 0x7f060011
+			public const int btnDay6 = 2131099665;
+			
+			// aapt resource value: 0x7f060013
+			public const int btnDay7 = 2131099667;
+			
+			// aapt resource value: 0x7f060015
+			public const int btnDay8 = 2131099669;
+			
+			// aapt resource value: 0x7f060005
+			public const int btnNext = 2131099653;
+			
+			// aapt resource value: 0x7f060007
+			public const int imgDay1 = 2131099655;
+			
+			// aapt resource value: 0x7f06000a
+			public const int imgDay2 = 2131099658;
+			
+			// aapt resource value: 0x7f06000c
+			public const int imgDay3 = 2131099660;
+			
+			// aapt resource value: 0x7f06000e
+			public const int imgDay4 = 2131099662;
+			
+			// aapt resource value: 0x7f060010
+			public const int imgDay5 = 2131099664;
+			
+			// aapt resource value: 0x7f060012
+			public const int imgDay6 = 2131099666;
+			
+			// aapt resource value: 0x7f060014
+			public const int imgDay7 = 2131099668;
+			
+			// aapt resource value: 0x7f060016
+			public const int imgDay8 = 2131099670;
+			
+			// aapt resource value: 0x7f060000
+			public const int imgLogo = 2131099648;
+			
+			// aapt resource value: 0x7f060004
+			public const int kmPicker = 2131099652;
+			
+			// aapt resource value: 0x7f060008
+			public const int textView3a = 2131099656;
+			
+			// aapt resource value: 0x7f060001
+			public const int txtCurrLoc = 2131099649;
+			
+			// aapt resource value: 0x7f060003
+			public const int txtLocField = 2131099651;
 			
 			static Id()
 			{
@@ -125,6 +293,22 @@ namespace WeatherOrNot
 			}
 			
 			private String()
+			{
+			}
+		}
+		
+		public partial class Style
+		{
+			
+			// aapt resource value: 0x7f050000
+			public const int NoActionBar = 2131034112;
+			
+			static Style()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Style()
 			{
 			}
 		}

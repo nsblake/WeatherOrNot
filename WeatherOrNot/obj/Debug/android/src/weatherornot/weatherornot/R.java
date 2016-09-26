@@ -12,15 +12,71 @@ public final class R {
     }
     public static final class drawable {
         public static final int icon=0x7f020000;
+        public static final int s_01=0x7f020001;
+        public static final int s_02=0x7f020002;
+        public static final int s_03=0x7f020003;
+        public static final int s_04=0x7f020004;
+        public static final int s_05=0x7f020005;
+        public static final int s_06=0x7f020006;
+        public static final int s_07=0x7f020007;
+        public static final int s_08=0x7f020008;
+        public static final int s_11=0x7f020009;
+        public static final int s_12=0x7f02000a;
+        public static final int s_13=0x7f02000b;
+        public static final int s_14=0x7f02000c;
+        public static final int s_15=0x7f02000d;
+        public static final int s_16=0x7f02000e;
+        public static final int s_17=0x7f02000f;
+        public static final int s_18=0x7f020010;
+        public static final int s_19=0x7f020011;
+        public static final int s_20=0x7f020012;
+        public static final int s_21=0x7f020013;
+        public static final int s_22=0x7f020014;
+        public static final int s_23=0x7f020015;
+        public static final int s_24=0x7f020016;
+        public static final int s_25=0x7f020017;
+        public static final int s_26=0x7f020018;
+        public static final int s_29=0x7f020019;
+        public static final int s_30=0x7f02001a;
+        public static final int s_31=0x7f02001b;
+        public static final int s_32=0x7f02001c;
+        public static final int s_33=0x7f02001d;
+        public static final int s_34=0x7f02001e;
+        public static final int s_35=0x7f02001f;
+        public static final int s_36=0x7f020020;
+        public static final int s_37=0x7f020021;
+        public static final int s_38=0x7f020022;
+        public static final int s_39=0x7f020023;
+        public static final int s_40=0x7f020024;
+        public static final int s_41=0x7f020025;
+        public static final int s_42=0x7f020026;
+        public static final int s_43=0x7f020027;
+        public static final int s_44=0x7f020028;
     }
     public static final class id {
-        public static final int address_text=0x7f050002;
-        public static final int btnNext=0x7f050005;
-        public static final int imgLogo=0x7f050000;
-        public static final int kmPicker=0x7f050004;
-        public static final int myListView=0x7f050006;
-        public static final int txtCurrLoc=0x7f050001;
-        public static final int txtLocField=0x7f050003;
+        public static final int address_text=0x7f060002;
+        public static final int btnDay1=0x7f060006;
+        public static final int btnDay2=0x7f060009;
+        public static final int btnDay3=0x7f06000b;
+        public static final int btnDay4=0x7f06000d;
+        public static final int btnDay5=0x7f06000f;
+        public static final int btnDay6=0x7f060011;
+        public static final int btnDay7=0x7f060013;
+        public static final int btnDay8=0x7f060015;
+        public static final int btnNext=0x7f060005;
+        public static final int imgDay1=0x7f060007;
+        public static final int imgDay2=0x7f06000a;
+        public static final int imgDay3=0x7f06000c;
+        public static final int imgDay4=0x7f06000e;
+        public static final int imgDay5=0x7f060010;
+        public static final int imgDay6=0x7f060012;
+        public static final int imgDay7=0x7f060014;
+        public static final int imgDay8=0x7f060016;
+        public static final int imgLogo=0x7f060000;
+        public static final int kmPicker=0x7f060004;
+        public static final int textView3a=0x7f060008;
+        public static final int txtCurrLoc=0x7f060001;
+        public static final int txtLocField=0x7f060003;
     }
     public static final class layout {
         public static final int main=0x7f030000;
@@ -29,5 +85,8 @@ public final class R {
     public static final class string {
         public static final int ApplicationName=0x7f040001;
         public static final int Hello=0x7f040000;
+    }
+    public static final class style {
+        public static final int NoActionBar=0x7f050000;
     }
 }

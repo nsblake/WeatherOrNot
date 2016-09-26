@@ -8,7 +8,7 @@
   <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
   <application android:label="WeatherOrNot" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
     <activity android:label="SecondScreen" android:name="md5857d2527f6aafbb5ec68cfac9246e95f.SecondScreen" />
-    <activity android:icon="@drawable/icon" android:label="Get Location" android:name="md5857d2527f6aafbb5ec68cfac9246e95f.Activity1">
+    <activity android:icon="@drawable/icon" android:label="Get Location" android:theme="@style/NoActionBar" android:name="md5857d2527f6aafbb5ec68cfac9246e95f.Activity1">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

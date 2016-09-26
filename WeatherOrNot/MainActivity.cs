@@ -17,7 +17,7 @@ using Newtonsoft.Json;
 
 namespace WeatherOrNot
 {
-    [Activity(Label = "Get Location", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Theme = "@style/NoActionBar",Label = "Get Location", MainLauncher = true, Icon = "@drawable/icon")]
     public class Activity1 : Activity, ILocationListener
     {
 
@@ -76,10 +76,13 @@ namespace WeatherOrNot
             Button button = FindViewById<Button>(Resource.Id.btnNext);
             button.Click += delegate
             {
-                string key = getLocationKey(currLongitude, currLatitude);
-                var listForecast = getForecast("10day", key);
-                
-                StartActivity(typeof(SecondScreen));
+                var second_screen = new Intent(this, typeof(SecondScreen));
+
+
+                second_screen.PutExtra("longitude", currLongitude.ToString());
+                second_screen.PutExtra("latitude", currLatitude.ToString());
+
+                StartActivity(second_screen);
             };
         }
 
